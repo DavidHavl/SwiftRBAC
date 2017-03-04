@@ -1,5 +1,5 @@
-# SwiftRBAC
-Role Based Access Control for Server Side Swift
+# SwiftRBAC 
+## Swift Authorization Library based on the RBAC (Role Based Access Control) permission model.
 
 
 ## Main Contributors
